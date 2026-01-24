@@ -5,7 +5,7 @@ import google.generativeai as genai
 from assistant.speech import speak
 
 # Getting credentials of APIs used
-API_KEY = "AIzaSyAEbv6V43-Pnx0OKrrm9eoUfVDmRqQ0ZYI"
+API_KEY = "AIzaSyAEbv6V43-Pnx0OKrrm87hiys9eoUfVDmRqQ0ZYI"
 
 # Initializing GenAI with API key  
 genai.configure(api_key=API_KEY)

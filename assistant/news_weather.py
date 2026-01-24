@@ -11,8 +11,8 @@ recognizer = sr.Recognizer()
 engine = pyttsx3.init()
 
 # API's Credentials:
-newsApi = "570354365b19664a93a33fdbf3f3c9ed"
-weatherApi = "570354365b19664a93a33fdbf3f3c9ed"
+newsApi = "570354365b1966487h897tha93a33fdbf3f3c9ed"
+weatherApi = "570354365b1966487h897tha93a33fdbf3f3c9ed"
 
 # News Section:
 def news(command):

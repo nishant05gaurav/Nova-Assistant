@@ -1,6 +1,6 @@
 # Nova — Voice Assistant
 
-A voice-first personal assistant built in Python that listens to natural speech, routes commands to the right module, and responds out loud — powered by Gemini 2.5 Flash for open-ended questions, with dedicated handlers for calendar, weather, news, tasks, music, and web navigation.
+A voice-first personal assistant built in Python that listens to natural speech, routes commands to the right module, and responds out loud powered by Gemini 2.5 Flash for open-ended questions, with dedicated handlers for calendar, weather, news, tasks, music, and web navigation.
 
 
 ## Quick Start
